@@ -21,4 +21,21 @@
 - Use the labelling softwere like [labelimg](https://github.com/tzutalin/labelImg) on Github
 
 
+### 3.5
 
+#### P.4
+
+- use datitran xml_to_csv.py and generat_tfrecord.py from [Github](https://github.com/datitran)
+- Convert data xml to csv
+- Install TF object detection module by setup.py and generate the tf_record. 
+
+#### P.5
+
+- Creat model or use pre-trained model and configuration file for deep learning.
+- Configurate the training processe and train the model
+
+#### P.6
+
+- Export the model graph to .pd and test it
+
+The TF.saver still cause the problem. The model is training but not saved to the model.ckpt.
