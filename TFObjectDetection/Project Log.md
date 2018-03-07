@@ -39,3 +39,10 @@
 - Export the model graph to .pd and test it
 
 The TF.saver still cause the problem. The model is training but not saved to the model.ckpt.
+
+
+
+### 3.7
+
+Reinstall the Tensorflow and test the Object Detection with new dataset. It finally works!
+
