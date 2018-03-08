@@ -46,3 +46,9 @@ The TF.saver still cause the problem. The model is training but not saved to the
 
 Reinstall the Tensorflow and test the Object Detection with new dataset. It finally works!
 
+### 3.8
+
+Download the image dataset by python crawler on Baidu Image and google image.
+
+Label the image by LableImg and test to build a model.
+
